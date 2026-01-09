@@ -1,0 +1,18 @@
+# SSL Day 6 – Password Policies & Account Security
+
+## Objective
+Configured and validated Active Directory password and account lockout policies, and performed account unlock procedures.
+
+## Work Completed
+- Reviewed and modified Default Domain Password Policy
+- Enforced password complexity, length, and age
+- Configured account lockout threshold and duration
+- Verified policy enforcement on domain client
+- Triggered and resolved account lockout
+
+## Skills Demonstrated
+- Active Directory security policy configuration
+- Group Policy Management
+- Account lockout troubleshooting
+- Password reset and unlock procedures
+- Help Desk security workflows
