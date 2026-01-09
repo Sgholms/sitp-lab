@@ -1,0 +1,18 @@
+# SSL Day 7 – Group Policy Basics (GPOs)
+
+## Objective
+Created, scoped, and troubleshot a Group Policy Object (GPO) to enforce user restrictions at the OU level.
+
+## Work Completed
+- Created and linked a custom GPO to the Staff OU
+- Configured a user-based policy to block Control Panel access
+- Troubleshot GPO application issues using gpresult
+- Identified and corrected security filtering
+- Verified policy enforcement on a domain client
+
+## Skills Demonstrated
+- Group Policy Management
+- OU-based policy scoping
+- GPO security filtering
+- gpresult troubleshooting
+- Real-world Help Desk diagnostics
